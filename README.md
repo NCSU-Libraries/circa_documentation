@@ -17,7 +17,7 @@
       * Item location
       * Checking out/in items
     * Locations
-      * Permenant
+      * Permanent
       * Temporary (for access, processing, loan, etc.)
     * Users
       * Researchers/patrons

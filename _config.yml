@@ -6,5 +6,8 @@ relative_links:
 include:
   - index.md
   - README.md
+  - user_docs
+  - deployment
+  - developer_docs
 title: Circa
 theme: jekyll-theme-midnight

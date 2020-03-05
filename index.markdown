@@ -1,8 +1,9 @@
-# Circa documentation
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-> Work in progress
-
-## Contents
+layout: home
+---
 
 * User documentation
   * Overview
@@ -17,7 +18,7 @@
       * Item location
       * Checking out/in items
     * Locations
-      * Permenant
+      * Permanent
       * Temporary (for access, processing, loan, etc.)
     * Users
       * Researchers/patrons

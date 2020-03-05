@@ -8,16 +8,16 @@
 * System requiremnts and deployment info
 * System design and developers' overview
 * Customization
-** Core Rails functionality
-*** Models
-*** Controllers
-*** Views
-*** Helpers
-*** Jobs
-*** Mailers
-** Javascript
-** CSS
-** Adding new functionality
-*** Modules
-*** Services
-*** Tasks
+  * Extending core Rails functionality
+    * Models
+    * Controllers
+    * Views
+    * Helpers
+    * Jobs
+    * Mailers
+  * Javascript
+  * CSS
+  * Adding custom classes, services, etc.
+    * Modules
+    * Services
+    * Tasks
